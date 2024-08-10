@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<h3 align="center">Tenho 19 anos, Sou estudante técnico em Tecnologia da Informação no Senac de São Miguel Paulista.</h3>
+<h3 align="center">Tenho 20 anos, Sou estudante de CST em Análise e Desenvolvimento de Sistemas.</h3>
 
 ###
 
