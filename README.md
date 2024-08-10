@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<h3 align="center">Tenho 20 anos, Sou estudante de CST em Análise e Desenvolvimento de Sistemas.</h3>
+<h3 align="center">I'm 20 years old, I'm a CST student in Systems Analysis and Development.</h3>
 
 ###
 
